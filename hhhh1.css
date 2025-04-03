@@ -1,0 +1,10 @@
+body{background-color: rgb(241, 194, 213);}
+p{font-family:italic}
+.one{color: rgb(46, 94, 34);font-family:"Oblique";}
+.for{color:rgb(183, 96, 96);font-family:"Italic";background-color: aliceblue;}
+.code{color: #000000;background-color: crimson;}
+header{width: 100%; background-color: rgb(205, 255, 230); border: 2px; border-radius: 15px;text-align: center;font-family:"Arial";}
+.two{width:100%; background-color: cornsilk;border: 2px;border-radius: 10px;text-align: center;}
+.three{width:100%; background-color: rgb(205, 255, 230);border: 2px;border-radius: 10px;text-align: center;font-family:"Oblique";}
+.fif{width: 100%; background-color: rgb(241, 194, 213); border: 2px; border-radius: 15px;text-align: center;font-family:"Arial";}
+video{width: 450px;}

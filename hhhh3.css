@@ -1,0 +1,6 @@
+.a{display: flex;flex-wrap: wrap;}
+body{background-color: rgb(242, 171, 209);}
+.b{align-items: center;}
+.a{justify-content: space-around;}
+.a{width: 100%; background-color: rgb(194, 241, 241); border: 2px; border-radius: 15px;text-align: center;font-family:"Arial";}
+.b{width: 100%; background-color: rgb(211, 241, 194); border: 2px; border-radius: 15px;text-align: center;font-family:"Arial";}
